@@ -4,10 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "purple-100": "#8284FA",
-        "purple-200": "#5E60CE",
-        "blue-100": "#4EA8DE",
-        "blue-200": "#1E6F9F",
+        purple: "#8284FA",
+        "purple-dark": "#5E60CE",
+        blue: "#4EA8DE",
+        "blue-dark": "#1E6F9F",
         "grey-100": "#F2F2F2",
         "grey-200": "#D9D9D9",
         "grey-300": "#808080",
