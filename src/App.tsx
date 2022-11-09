@@ -1,7 +1,7 @@
-import { Title } from "./styles";
+import HomePage from "./components/pages/HomePage";
 
 function App() {
-  return <Title>Hello World</Title>;
+  return <HomePage />;
 }
 
 export default App;
