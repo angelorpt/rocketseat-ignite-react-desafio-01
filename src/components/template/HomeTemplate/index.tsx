@@ -1,4 +1,5 @@
 import ButtonCreate from "../../atoms/ButtonCreate";
+import ButtonDelete from "../../atoms/ButtonDelete";
 
 function HomeTemplate() {
   return (
@@ -6,6 +7,9 @@ function HomeTemplate() {
       HomeTemplate
       <div>
         <ButtonCreate />
+      </div>
+      <div>
+        <ButtonDelete />
       </div>
     </div>
   );
